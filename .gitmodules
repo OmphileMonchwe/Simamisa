@@ -1,0 +1,9 @@
+[submodule "SimamisaMobileApp"]
+	path = SimamisaMobileApp
+	url = https://github.com/OmphileMonchwe/SimamisaMobileApp
+[submodule "SimamisaWebsite"]
+	path = SimamisaWebsite
+	url = https://github.com/Onalenna-Ketshabile/SimamisaWebsite
+[submodule "dummySimamisaAPI"]
+	path = dummySimamisaAPI
+	url = https://github.com/NontsikeleloNN/dummySimamisaAPI
