@@ -1,0 +1,26 @@
+Collaborators
+
+Nontsikelelo Ndumo:Team Lead and Backend Developer
+Details:
+ID:9905180050081
+Age:23
+Physical address:1 ash road, Westdene, Auckland park, Johannesburg 
+Email:Ndumonnn@gmail.com 
+Cell:0662465641
+University:University of Johannesburg
+
+Omphile Monchwe: Mobile and Frontend Developer
+ID:0101080592088
+Age:23
+Physical address:Lebone Ladies Residense, Kingsway Avenue, Auckland park, Johannesburg 
+Email:omphile05monchwe@gmail.com
+Cell:0670364077
+University:University of Johannesburg
+
+Onalenna Ketshabile: Frontend Developer
+ID: 0009305684087
+Age: 22
+Physical address: 30124 MOSITWANE SECTION LEROME 0318
+Email address: onalennaketshabile@gmai.com
+Cell:0620554960
+University:University of Johannesburg
